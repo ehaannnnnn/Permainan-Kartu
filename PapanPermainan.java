@@ -30,10 +30,3 @@ public class PapanPermainan {
         return posisi_tangga;
     }
 }
-
-/*saya membuat class papan permainan untuk mendesain papan permainan ular tangganya
-* saya set ukuran ukuran papannya 100
-* saya juga men set lokasi untuk ular dan tangganya, sekaligus dengan tujuannya
-* saya membuat method getTujuanUlar yang mana nantinya akan merubah posisi pemain sama dengan posisi tujuan ular.
-* saya juga membuat method getTujuanTangga yang mana nantinya akan merubah posisi pemain sama dengan posisi tujuan Tangga.
-*/
