@@ -1,5 +1,5 @@
 public class PapanPermainan {
-    // set ukuran papan
+     // set ukuran papan
     private static final int Ukuran_Papan = 100;
 
     // set lokasi dan tujuan dari Ular & Tangga
